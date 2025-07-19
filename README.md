@@ -1,4 +1,4 @@
-# -IAM-Setup-in-AWS-Console
+# IAM Setup in AWS Console
 
 ✅ What is IAM in AWS?
 
