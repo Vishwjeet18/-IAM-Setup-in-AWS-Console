@@ -35,7 +35,7 @@ It helps you control **who can access what**, and **what they can do** with your
  👤 Step 2: Create a User
 
 1. IAM Console → **Users** → `Add user`
-2. Username: e.g., `john-user`
+2. Username: e.g., `Vishu-user`
 3. Access type:
  ✅ AWS Management Console access (for UI login)
  ✅ Programmatic access (for API/CLI)
